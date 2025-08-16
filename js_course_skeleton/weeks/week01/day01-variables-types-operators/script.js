@@ -22,3 +22,10 @@ counter = counter + 1
 // 7. Symbol строка но уникальна
 // 8. BigInt очень длинные числа 
 
+
+function namefy () {
+    const newConst = 'Hello World';
+    console.log(newConst)
+}
+
+namefy()
